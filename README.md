@@ -4,7 +4,7 @@ This repository is based on the [Optimized High Speed NRF24L01+ Driver Class Doc
 
 ## Transmitter
 
-The [MedBox_RF24_arduino_receiver.ino](https://github.com/bitandbytes/RF24-arduino-transmitter-RPi-receiver/blob/master/MedBox_RF24_arduino_receiver.ino) file is modified using the 'GettingStarted_transmitter.ino' for Arduino code sample. 
+The [MedBox_RF24_arduino_receiver.ino](https://github.com/bitandbytes/RF24-arduino-transmitter-RPi-receiver/blob/master/MedBox_RF24_arduino_receiver.ino) file is modified using the 'GettingStarted_transmitter.ino' sample code.
 
 ##### Added features to the GettingStarted_transmitter
 * Interrupt function to the input (De-bouncing is not added and needed to be added)
